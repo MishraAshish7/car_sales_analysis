@@ -1,5 +1,8 @@
 # Automotive Sales Overview: Key Metrics and Insights
 
+### Dataset is too large so it can't be uploaded here: Almost 2.5 million rows are there in dataset
+### Sorry for inconvenience
+
 his repository encompasses a comprehensive project focused on sales data analysis and visualization, leveraging Python, MySQL, and Power BI to deliver actionable insights and strategic recommendations. The core objective is to deeply understand sales dynamics, including trends, profitability, and performance metrics. Using Python, the analysis delves into how sales trends evolve over different time periods and identifies seasonal patterns that may affect sales. It further explores which car makes yield the highest revenue and profit margins, assesses salesperson effectiveness by comparing total sales and commissions, and examines the relationship between sale prices and commissions to determine if higher-priced sales consistently lead to higher commissions.
 
 In addition to Python-based analysis, MySQL Workbench is utilized to aggregate and compare sales data across various dimensions. This includes calculating total revenue and commissions by car make, salesperson, and time period, and analyzing year-over-year performance to spot significant changes. The project also assesses sales efficiency, identifies high-value transactions, and explores sales trends by car model. Key metrics such as commission rates and customer purchase frequency are examined to provide a nuanced view of sales performance and profitability.
